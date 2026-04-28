@@ -37,19 +37,27 @@ This project combines **Exploratory Data Analysis (EDA)** and **Machine Learning
 ## 📊 Key Visualizations
 
 ### 🔝 Top YouTube Channels by Subscribers
-![Top Channels](images/top_channels.png)
+<img src="images/top_channels.png" width="700"/>
+
+---
 
 ### 📊 Category-wise Subscriber Analysis
-![Category Analysis](images/category_analysis.png)
+<img src="images/category_analysis.png" width="700"/>
+
+---
 
 ### 🌍 Country-wise Distribution of Channels
-![Country Distribution](images/country_distribution.png)
+<img src="images/country_distribution.png" width="700"/>
+
+---
 
 ### 🤖 Elbow Method for Optimal Clusters
-![Elbow Method](images/elbow_method.png)
+<img src="images/elbow_method.png" width="700"/>
+
+---
 
 ### 📉 Cluster Visualization using PCA
-![Cluster Visualization](images/cluster_visualization.png)
+<img src="images/cluster_visualization.png" width="700"/>
 
 ---
 
@@ -75,7 +83,7 @@ This project combines **Exploratory Data Analysis (EDA)** and **Machine Learning
 social-media-analytics-ml/
 │
 ├── data/
-│    ├── Global YouTube Statistics.csv
+│   ├── Global YouTube Statistics.csv
 │   ├── Facebook_Marketplace_data.csv 
 ├── notebooks/
 │   ├── youtube_eda_analysis.ipynb
