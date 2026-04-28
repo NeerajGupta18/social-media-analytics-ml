@@ -103,7 +103,8 @@ social-media-analytics-ml/
 ---
 
 ## 🔗 Live Demo (Colab)
-👉 Add your Colab link here
+👉 https://colab.research.google.com/drive/12jXzheepVzAAruN9RixexOi8usrvp3aO?usp=sharing
+👉 https://colab.research.google.com/drive/1TPVh0etj7ADcwc-aUC0wELBcm0d3SG4p?usp=sharing
 
 ---
 
